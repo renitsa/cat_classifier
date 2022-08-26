@@ -66,15 +66,6 @@ Jinja2==3.1.2
 jinxed==1.2.0
 json5==0.9.10
 jsonschema==4.13.0
-jupyter==1.0.0
-jupyter-client==7.3.4
-jupyter-console==6.4.4
-jupyter-core==4.11.1
-jupyter-server==1.18.1
-jupyterlab==3.4.5
-jupyterlab-pygments==0.2.2
-jupyterlab-server==2.15.0
-jupyterlab-widgets==3.0.2
 keras==2.9.0
 Keras-Preprocessing==1.1.2
 kiwisolver==1.4.4
@@ -157,7 +148,6 @@ smmap==5.0.0
 sniffio==1.2.0
 soupsieve==2.3.2.post1
 stack-data==0.4.0
-streamlit==1.12.2
 tabulate==0.8.10
 tensorboard==2.9.1
 tensorboard-data-server==0.6.1
